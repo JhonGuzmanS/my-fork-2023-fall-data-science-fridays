@@ -56,15 +56,29 @@ _Note, these are subject to change based on class needs and instructors discreti
 * Week 05 [Sep 26 - 29]: Dashboards
 * Week 06 [Oct 03 - 06]: Regression
 * __Week XX [Oct 10 - 13] NO CLASS THIS WEEK__
-* Week 07 [Oct 17 - 20]: NLP
-* Week 08 [Oct 24 - 27]: TBD
+* Week 07 [Oct 17 - 20]: Decision Trees / Random Forest 
+* Week 08 [Oct 24 - 27]: NLP
 * Week 09 [Oct 31 - Nov 3]: Neural Networks 1
 * Week 10 [Nov 07 - 10]: Neural Networks 2
-* Week 11 [Nov 14 - 17]: __IN PERSON__ - NN part 3 + Project Time
+* Week 11 [Nov 14 - 17]: __IN PERSON__ - CC + Project Time [No Lecture]
 * __Week XX [Nov 21 - 24] NO CLASS THIS WEEK__
-* Week 12 [Nov 28 - Dec 01]: __IN PERSON__ - NN part 4 + Project Time
-* Week 13 [Dec 05 - 08]: In-Class demos and Project Time 
+* Week 12 [Nov 28 - Dec 01]: __IN PERSON__ - Project Demos + Project Time [No Lecture]
+* Week 13 [Dec 05 - 08]: Final Project Demos and Curriculum Review
 
+
+
+## In-Person Classes Details
+* Week 11 [Nov Tue 11/14 - Fri 11/17]
+* __Week XX [Nov 21 - 24] NO CLASS THIS WEEK__
+* Week 12 Week 12 [Nov Tue 11/28 - Dec Fri 12/01]
+
+All of our in-person classes this semester will held at the [Google Community Classrooms @Pier 57](https://pier57nyc.com/community-spaces/community-classrooms/) in the **Daffodil Classroom**.
+- Address: [25 11th Ave New York, NY 10011](https://maps.app.goo.gl/wfp7hfSLok3i6Rsb9)  (On the far west side, in Chelsea-ish // Approx 11th AVE and 15th Street)
+- Logistics: Students are to arrive 15 mins early.  No check-in needed, classes will be open upon arrival.
+- Professionalism: please review our guide ([Industry Partner Interaction: Student Guide](https://docs.google.com/document/d/1_2c9joKkfP4RYM6_tIwWp8ngyeyndDxvVQFMFu0AN4w/edit)) on expectations on how to interact with CTP industry partners!
+- Entrance: Enter through the doors between West Side Highway and 15th Street directly adjacent to the City Winery.
+
+![map](Week-07-Decision-Trees-n-RandomForest/data/Pier-57-Map.png)
 
 
 ## Detailed Instructions For Submitting HWs
