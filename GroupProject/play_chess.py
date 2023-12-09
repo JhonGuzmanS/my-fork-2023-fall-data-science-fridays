@@ -64,6 +64,24 @@ def play_game(player1, player2, visual="svg", pause=0.1):
     return (result, msg, board)
 
 
+def game_match(move_list, visual="svg", pause=0.1):
+    use_svg = (visual == "svg")
+    board = chess.Board()
+    for move in move_list:
+        uci = move
+        name = who(board.turn)
+        board.push_uci(uci)
+        board_stop = display_board(board, use_svg)
+        html = "<b>Move %s %s, Play '%s':</b><br/>%s" % (
+            len(board.move_stack), name, uci, board_stop)
+        if visual is not None:
+            if visual == "svg":
+                clear_output(wait=True)
+            display(HTML(html))
+            if visual == "svg":
+                time.sleep(pause)
+
+
 def human_player(board):
     display(board)
     uci = get_move("%s's move [q to quit]> " % who(board.turn))
